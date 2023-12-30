@@ -36,4 +36,4 @@ Steller Cart is an E-commerce project built using React JS and Tailwind CSS. It 
 
 ## Live Link
 
-[https://woro-media-steller-cart.netlify.app/](#)
+[Steller Cart - Live Link](https://woro-media-steller-cart.netlify.app/)
